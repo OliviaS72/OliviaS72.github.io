@@ -3,4 +3,4 @@
 ### Python, R, and Tableau
 
 ### PROJECT 1
-![](/assets/img/headshot_schultheis.jpeg)
+[](file:///Users/oliviaschultheis/Desktop/RMU%20Course%20Archive/Machine%20Learning%20with%20Python/CNN_Assignment%204.html)
