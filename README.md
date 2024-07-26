@@ -2,5 +2,8 @@
 ## Data Science Portfolio
 ### Python, R, and Tableau
 
-### PROJECT 1
-[](file:///Users/oliviaschultheis/Desktop/RMU%20Course%20Archive/Machine%20Learning%20with%20Python/CNN_Assignment%204.html)
+### PROJECT 1: Python
+### Convolutional Neural Network to Classify Rock, Paper, Scissors Images from Tensorflow Dataset
+Link: [Rock, Paper, Scissors Convolutional Neural Network](https://github.com/OliviaS72/RockPaperScissors_CNN)
+
+
