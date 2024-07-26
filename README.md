@@ -26,9 +26,9 @@ Link: [Rock, Paper, Scissors Convolutional Neural Network](https://github.com/Ol
 ### Target: https://www.nasdaq.com/market-activity/stocks/tgt
 ### Amazon: https://www.nasdaq.com/market-activity/stocks/amzn
 
-Github Repo with actual CSV files used (only plotted data for January 2024) : [Amazon Target Line Plot](https://github.com/OliviaS72/AmazonTargetStock)
+**Github Repo with actual CSV files used (only plotted data for January 2024) : [Amazon Target Line Plot](https://github.com/OliviaS72/AmazonTargetStock)**
 
-RPubs Publication of Code with Visualization: [Rpubs Amazon Target Line Plot](https://rpubs.com/Olivias3/1206691)
+**RPubs Publication of Code with Visualization: [Rpubs Amazon Target Line Plot](https://rpubs.com/Olivias3/1206691)**
 
 
 
