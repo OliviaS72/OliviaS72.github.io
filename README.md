@@ -20,22 +20,3 @@ Link: [Rock, Paper, Scissors Convolutional Neural Network](https://github.com/Ol
 
 **Out of the misclassified images, 25 were rock, 4 were paper, and 57 were scissors. The model seems to be doing the best at predicting paper, but struggles to distinguish between rock and scissors. The model could likely be improved if more pictures were included in training that clearly were different among the rock and scissors photos.**
 
-## Project 2: R
-## Plot of Daily Closing Stock Price for Amazon and Target in January 2024. 
-### Data is from Nasdaq website
-### Target: https://www.nasdaq.com/market-activity/stocks/tgt
-### Amazon: https://www.nasdaq.com/market-activity/stocks/amzn
-
-**Github Repo with actual CSV files used (only plotted data for January 2024) : [Amazon Target Line Plot](https://github.com/OliviaS72/AmazonTargetStock)**
-
-**RPubs Publication of Code with Visualization: [Rpubs Amazon Target Line Plot](https://rpubs.com/Olivias3/1206691)**
-
-
-
-Visualization: <br> <br>
-<img src= /assets/img/Amazon_TargetClosingPrice.png width="750" height="550">
-
-
-
-
-
