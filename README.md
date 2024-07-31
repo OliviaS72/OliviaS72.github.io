@@ -20,3 +20,7 @@ Link: [Rock, Paper, Scissors Convolutional Neural Network](https://github.com/Ol
 
 **Out of the misclassified images, 25 were rock, 4 were paper, and 57 were scissors. The model seems to be doing the best at predicting paper, but struggles to distinguish between rock and scissors. The model could likely be improved if more pictures were included in training that clearly were different among the rock and scissors photos.**
 
+### Project 2: Python
+### Recurrent Neural Network to Classify Text related to Science Fields of Chemistry, Biology, and Physics
+Link: [
+
