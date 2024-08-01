@@ -40,7 +40,7 @@ Github Repository Link: [Science Comments Recurrent Neural Network](https://gith
 
 ### Project(s) 3: Tableau
 **I have published a few Tableau dashboards I created on Tableau Public. Here is a preview of one: <br>**
-<img src = "assets/img/DataSalariesTableauViz.png">
+<img src = "assets/img/DataSalariesTableauViz.png" width = 1000 height = 1000>
 
 **Here is a link to my Tableau Public Page: [Olivia Schultheis' Tableau Public](https://public.tableau.com/app/profile/olivia.schultheis/vizzes)**
 
