@@ -32,7 +32,7 @@ Github Repository Link: [Science Comments Recurrent Neural Network](https://gith
 
 **The final accuracy of this model was 0.81. A plot of accuracy, loss, precision, and recall for the training and validation set is shown below:** <br> 
 
-<img src = "assets/img/Metric_Plots_RNN_Science.png" width = "700" height = "450">
+<img src = "assets/img/Metric_Plots_RNN_Science.png" width = "1000" height = "800">
 
 **As can be seen in the above plots, overfitting does not seem to be an issue with this neural network because the training loss steadily decreases, and the validation loss never increases to a large degree. Also, the training accuracy steadily increases, and the validation accuracy never decreases to a large degree.**
 
@@ -47,7 +47,7 @@ Github Repository Link: [Science Comments Recurrent Neural Network](https://gith
 ### Project(s) 4: R
 **On RPubs, I have posted multiple visualizations I created, including some using the trelliscope, ggplot2, and plotly packages. Multiple of these plots are animated or interactive in some way, so feel free to explore the trends these plots travel through. Below is a preview of a scatterplot I created in one of my RPubs Projects: <br>**
 
-<img src = "assets/img/Gapminder_Scatterplot.png" height = "700" width = "700">
+<img src = "assets/img/Gapminder_Scatterplot.png" height = "600" width = "500">
 
 **Feel free to check out my interactive plots and more at: [Olivia Schultheis' RPubs Page](https://rpubs.com/Olivias3)**
 
