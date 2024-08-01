@@ -1,4 +1,4 @@
-## Data Science Portfolio
+## Olivia Schultheis
 ### Python, Tableau, R, SQL
 
 ### PROJECT 1: Python
