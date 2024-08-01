@@ -1,6 +1,6 @@
 # Olivia Schultheis
 ## Data Science Portfolio
-### Python, R, and Tableau
+### Python, R, Tableau, and SQL
 
 ### PROJECT 1: Python
 ### Convolutional Neural Network to Classify Rock, Paper, Scissors Images from Tensorflow Dataset
@@ -37,3 +37,7 @@ Github Repository Link: [Science Comments Recurrent Neural Network](https://gith
 **As can be seen in the above plots, overfitting does not seem to be an issue with this neural network because the training loss steadily decreases, and the validation loss never increases to a large degree. Also, the training accuracy steadily increases, and the validation accuracy never decreases to a large degree.**
 
 **Some advantages to this implementation are that pre-trained embedding allowed the model to learn words that may not have been observed during training, but would be realized in unseen, testing data. Additionally, the LSTM layer helped alleviate the issue of diminishing gradients and helped the model pick up word meanings and connotation in the forward and backward directions.**
+
+## Project(s) 3
+## I have published a few Tableau dashboards I created on Tableau Public. Here is a preview of one: 
+
