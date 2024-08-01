@@ -5,7 +5,7 @@ Github Repository Link: [Rock, Paper, Scissors Convolutional Neural Network](htt
 
 **This project used the 'rock_paper_scissors' dataset from tensorflow_datasets. There are 2,520 images in the training dataset and 372 images in the testing dataset. All of these images show hand gestures of either rock, paper, or scissors. The layers for the Convolutional Neural Network are shown below:**
 
-<img src = "assets/img/CNN_layers_rockpaperscissors.png">
+<img src = "assets/img/CNN_ModelAllLayers.png">
 
 **The overall testing accuracy of this model was about 77%.**
 
