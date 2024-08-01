@@ -1,4 +1,5 @@
-### Python, Tableau, R, SQL
+### Olivia Schultheis' Data Science Portfolio
+## Python, Tableau, R, SQL
 
 ### PROJECT 1: Python
 ### Convolutional Neural Network to Classify Rock, Paper, Scissors Images from Tensorflow Dataset
