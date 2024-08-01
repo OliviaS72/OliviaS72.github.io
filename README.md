@@ -1,6 +1,6 @@
 # Olivia Schultheis
 ## Data Science Portfolio
-### Python, R, Tableau, and SQL
+### Python, Tableau, R, SQL
 
 ### PROJECT 1: Python
 ### Convolutional Neural Network to Classify Rock, Paper, Scissors Images from Tensorflow Dataset
@@ -38,6 +38,26 @@ Github Repository Link: [Science Comments Recurrent Neural Network](https://gith
 
 **Some advantages to this implementation are that pre-trained embedding allowed the model to learn words that may not have been observed during training, but would be realized in unseen, testing data. Additionally, the LSTM layer helped alleviate the issue of diminishing gradients and helped the model pick up word meanings and connotation in the forward and backward directions.**
 
-## Project(s) 3
-## I have published a few Tableau dashboards I created on Tableau Public. Here is a preview of one: 
+### Project(s) 3: Tableau
+**I have published a few Tableau dashboards I created on Tableau Public. Here is a preview of one: <br>**
+<img src = /assets/img/DataSalariesTableauViz.png>
+
+**Here is a link to my Tableau Public Page: [Olivia Schultheis' Tableau Public](https://public.tableau.com/app/profile/olivia.schultheis/vizzes)**
+
+### Project(s) 4: R
+**On RPubs, I have posted multiple visualizations I created, including some using the trelliscope, ggplot2, and plotly packages. Multiple of these plots are animated or interactive in some way, so feel free to explore the trends these plots travel through. Below is a preview of a scatterplot I created in one of my RPubs Projects: <br>**
+
+<img src = /assets/img/Gapminder_Scatterplot.png height = "400" width = "600"> 
+
+**Feel free to check out my interactive plots and more at: [Olivia Schultheis' RPubs Page](https://rpubs.com/Olivias3)**
+
+### Project 5: SQL Veterinary Database: 
+**I created an 8 table database from scratch to model a veterinary clinic. I have a GitHub Repository with a document attached showing all my code creating the tables and entering in records below:** <br>
+
+Github Repository Link: [SQL Veterinary Database Creation](https://github.com/OliviaS72/SQLVetDatabase)
+
+**To view the database creation, you would need to visit the repository above, go to 'Vet Database Creation.docx' below the README.md file for this repository, and select the link to 'View raw' to download the original document.**
+
+**Below is a preview of code for some table creation and data input into the tables:** <br>
+
 
