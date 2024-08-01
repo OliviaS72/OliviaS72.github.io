@@ -1,4 +1,3 @@
-# Olivia Schultheis
 ## Data Science Portfolio
 ### Python, Tableau, R, SQL
 
