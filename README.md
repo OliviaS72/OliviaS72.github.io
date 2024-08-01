@@ -60,4 +60,7 @@ Github Repository Link: [SQL Veterinary Database Creation](https://github.com/Ol
 
 **Below is a preview of code for some table creation and data input into the tables:** <br>
 
-
+**This code creates the PETOWNER and PATIENT tables, which are just 2 of the 8 total tables in the database**
+<img src = /assets/img/SQLVetDatabasePreview1.png height = "500" width = "400">
+**This code enters records into the PETOWNER and PATIENT tables**
+<img src = /assets/img/SQLVetDatabasePreview2.png height = "500" width = "400"> 
