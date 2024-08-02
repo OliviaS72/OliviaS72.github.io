@@ -61,3 +61,14 @@ Github Repository Link: [SQL Veterinary Database Creation](https://github.com/Ol
 ![](/assets/img/SQLVetDatabasePreview1.png) <br>
 ### This code enters records into the PETOWNER and PATIENT tables <br>
 ![](/assets/img/SQLVetDatabasePreview2.png) <br>
+
+
+### Project 6: Web Scraping in Python to Visualize Temperature Data
+**I used web scraping to extract tables related to temperature data using read_html in Python. The data comes from two Wikepedia pages. One is for the country of Prague, Czech Republic and the other is for Santiago, Chile. The webpages are: <br>**
+[Prague Wikipedia Page](https://en.wikipedia.org/wiki/Prague) <br>
+[Santiago Wikipedia Page](https://en.wikipedia.org/wiki/Santiago) <br> 
+
+**The data that I focused on for plotting was the daily mean temperature in degrees Celcius for each country. Since Prague is in the northern hemisphere and Santiago is in the southern hemisphere, the graph shows two lines that are "U-shaped" opposite of each other. Prague experiences summer mid-year, while Santiago experiences winter mid-year. The temperature data was in a format where with #C (#F), with the Celcius temperature listed first and the Fahrenheit temperature listed after in parentheses with a space in between. I had to split up the Celcius and Fahrenheit temperatures for each country, remove the ending parentheses, and convert all the values to floats. There were also an extraneous row for the column name and for a yearly daily average temperature, so I removed these rows.**
+
+**The final plot is seen below:**
+<img src = "assets/img/PragueSantiagoTemps.png">
