@@ -17,7 +17,7 @@ Github Repository Link: [Rock, Paper, Scissors Convolutional Neural Network](htt
 
 **Out of the misclassified images, 25 were rock, 4 were paper, and 57 were scissors. The model seems to be doing the best at predicting paper, but struggles to distinguish between rock and scissors. The model could likely be improved if more pictures were included in training that clearly were different among the rock and scissors photos.**
 
-### Project 2: Python
+### PROJECT 2: Python
 ### Recurrent Neural Network to Classify Text related to Science Fields of Chemistry, Biology, and Physics
 Github Repository Link: [Science Comments Recurrent Neural Network](https://github.com/OliviaS72/RNNScienceText)
 
@@ -35,20 +35,23 @@ Github Repository Link: [Science Comments Recurrent Neural Network](https://gith
 
 **Some advantages to this implementation are that pre-trained embedding allowed the model to learn words that may not have been observed during training, but would be realized in unseen, testing data. Additionally, the LSTM layer helped alleviate the issue of diminishing gradients and helped the model pick up word meanings and connotation in the forward and backward directions.**
 
-### Project(s) 3: Tableau
+### PROJECT(S) 3: Tableau
 **I have published a few Tableau dashboards I created on Tableau Public. Here is a preview of one: <br>**
 <img src = "assets/img/DataSalariesTableauViz.png">
 
 **Here is a link to my Tableau Public Page: [Olivia Schultheis' Tableau Public](https://public.tableau.com/app/profile/olivia.schultheis/vizzes)**
 
-### Project(s) 4: R
+### PROJECT 4: R
+**I completed a project investigating what characteristics or factors about counties in the U.S. make them more or less likely to be medically underserved. The data comes from the [Social Determinants of Health Database (SDOH)](https://www.ahrq.gov/sdoh/data-analytics/sdoh-data.html), released by the Agency for Human Research and Quality (AHRQ). Each U.S. state's Primary Care Office (PCO) applies for MUA (Medically Underserved Area) status, and the Health Resources & Service Administration decides if the state's application meets the criteria for a Medically Underserved Area. My research paper details my procedure and findings to develop a logistic regression model with a reasonable amount of variables for a data set including U.S. counties with over 900 variables.**
+
+### PROJECT(S) 5: R
 **On RPubs, I have posted multiple visualizations I created, including some using the trelliscope, ggplot2, and plotly packages. Multiple of these plots are animated or interactive in some way, so feel free to explore the trends these plots travel through. Below is a preview of a scatterplot I created in one of my RPubs Projects: <br>**
 
 <img src = "assets/img/Gapminder_Scatterplot.png">
 
 **Feel free to check out my interactive plots and more at: [Olivia Schultheis' RPubs Page](https://rpubs.com/Olivias3)**
 
-### Project 5: SQL Veterinary Database: 
+### PROJECT 6: SQL Veterinary Database: 
 **I created an 8 table database from scratch to model a veterinary clinic. I have a GitHub Repository with a document attached showing all my code creating the tables and entering in records below:** <br>
 
 Github Repository Link: [SQL Veterinary Database Creation](https://github.com/OliviaS72/SQLVetDatabase)
@@ -63,7 +66,7 @@ Github Repository Link: [SQL Veterinary Database Creation](https://github.com/Ol
 ![](/assets/img/SQLVetDatabasePreview2.png) <br>
 
 
-### Project 6: Web Scraping in Python to Visualize Temperature Data
+### PROJECT 7: Web Scraping in Python to Visualize Temperature Data
 **I used web scraping to extract tables related to temperature data using read_html in Python. The data comes from two Wikepedia pages. One is for the country of Prague, Czech Republic and the other is for Santiago, Chile. The webpages are: <br>**
 [Prague Wikipedia Page](https://en.wikipedia.org/wiki/Prague) <br>
 [Santiago Wikipedia Page](https://en.wikipedia.org/wiki/Santiago) <br> 
